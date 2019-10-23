@@ -1,0 +1,10 @@
+#!/bin/sh
+
+SELF=$(cd $(dirname $0); pwd)
+
+cd ${SELF}/../docker
+
+docker-compose down
+docker-compose up -d
+
+exit 0

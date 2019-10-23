@@ -1,0 +1,8 @@
+#!/bin/sh
+
+SELF=$(cd $(dirname $0); pwd)
+
+rm -rf ${SELF}/../html/docs
+cp -rf ${SELF}/../hugo-contents-dd-docs/public/ ${SELF}/../html/docs/
+
+exit 0
