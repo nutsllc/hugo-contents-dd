@@ -1,0 +1,3 @@
+[submodule "hugo-contents-dd-docs"]
+	path = hugo-contents-dd-docs
+	url = https://github.com/nutsllc/hugo-contents-dd-docs

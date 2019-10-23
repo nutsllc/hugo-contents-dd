@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/ja/setting_up/</loc>
+    <lastmod>2019-10-14T15:34:24+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/setting_up/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/setting_up/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/dd/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddps/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddpsa/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddstart/</loc>
+    <lastmod>2019-10-14T09:06:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddstop/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddstopa/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddrm/</loc>
+    <lastmod>2019-10-14T09:06:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddrma/</loc>
+    <lastmod>2019-10-14T10:58:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/dddown/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddimages/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/setting_up/install/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/</loc>
+    <lastmod>2019-10-13T12:17:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/container/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/container/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddrmi/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/setting_up/uninstall/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/</loc>
+    <lastmod>2019-10-13T12:17:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/image/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/image/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddrmia/</loc>
+    <lastmod>2019-10-14T09:06:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/network/</loc>
+    <lastmod>2019-10-13T12:17:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/network/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/network/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/volume/</loc>
+    <lastmod>2019-10-13T12:17:07+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/volume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/volume/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddsh/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddbash/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddmysql/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddnone/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddenv/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddhistory/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddinspect/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddip/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddlogs/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddmyadmin/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddstats/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddhosts/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddid/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/image/ddidi/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/container/ddtop/</loc>
+    <lastmod>2019-10-14T09:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ja/</loc>
+    <lastmod>2019-10-14T10:58:59+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/docs/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/contribution/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/contribution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/docs/fr/contribution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/contribution/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/docs/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/docs/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/docs/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/docs/ja/tags/"
+                />
+  </url>
+  
+</urlset>
